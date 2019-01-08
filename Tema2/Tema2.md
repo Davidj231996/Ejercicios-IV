@@ -28,4 +28,24 @@ En nuestro caso vamos a hacerlo en python, y se realiza con la siguiente orden:
 
 ## Ejercicio 5
 
-Este ejercicio esta resuelto en el archivo [empresa.py](https://github.com/Davidj231996/Proyecto-Vengadores/blob/master/src/test_noticiario.py)
+Este ejercicio esta resuelto en el archivo [empresa.py](https://github.com/Davidj231996/Ejercicios-IV/blob/master/Tema2/empresa.py)
+
+## Ejercicio 6
+
+Si usamos versiones antiguas de python, no funciona debido a que hay funcionalidades no incluidas.
+
+## Ejercicio 7
+
+Crear una descripción del módulo usando package.json. En caso de que se trate de otro lenguaje, usar el método correspondiente.
+
+En python podemos usar el módulo pip, y con un [archivo txt](https://github.com/Davidj231996/Proyecto-Vengadores/blob/master/requirements.txt) en el que le ponemos las necesidades. La orden sería la siguiente: *pip install -r requirements.txt*
+
+## Ejercicio 8
+
+Automatizar con grunt, gulp u otra herramienta de gestión de tareas en Node la generación de documentación de la librería que se cree usando docco u otro sistema similar de generación de documentación. Previamente, por supuesto, habrá que documentar tal librería.
+
+Para python podemos encontrar Sphynx, que se instala de la siguiente forma: *easy_install -U sphinx*.
+
+## Ejercicio 9
+
+![Travis](/Capturas/travis.png)
